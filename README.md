@@ -23,6 +23,11 @@ These are some sample outputs in the program:
 
 | Sample Console Input | Expected Console Output  |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| rain <br> pig            | Welcome De Lasalle University's GPA-Ulator'! <br> "Kindly please log-in first before using the app." <br><br> USERNAME: rain <br> PASSWORD: pig <br> <br> First Name: Rainier <br> Last Name: Wong  |
+| fgfg <br> dfsdf            | Welcome De Lasalle University's GPA-Ulator'! <br> "Kindly please log-in first before using the app." <br><br> USERNAME: fgfg <br> PASSWORD: dfsdf <br> ERROR: incorrect username and password |
+| Number of terms to track: 1 <br> Number of subjects you are taking for the term: 2 <br>  | Subject: FNDSTAT <br> Grade 4.0 <br> Total Unit of the Subject: 3 <br> Subject: FNDMATH <br> Grade 4.0 <br> Total Unit of the Subject: 3 <br> <br> GPA: 4.0 <br> CGPA: 4.0 <br> Award: 1st Dean's Lister |
+| Number of terms to track: 1 <br> Number of subjects you are taking for the term: 2 <br>  | Subject: FNDSTAT <br> Grade 3.0 <br> Total Unit of the Subject: 3 <br> Subject: FNDMATH <br> Grade 3.0 <br> Total Unit of the Subject: 3 <br> <br> GPA: 3.0 <br> CGPA: 3.0 <br> Award: 2nd Dean's Lister |
+| Number of terms to track: 1 <br> Number of subjects you are taking for the term: 2 <br>  | Subject: FNDSTAT <br> Grade 2.0 <br> Total Unit of the Subject: 3 <br> Subject: FNDMATH <br> Grade 2.0 <br> Total Unit of the Subject: 3 <br> <br> GPA: 2.0 <br> CGPA: 2.0 <br> Award: none |
 
 
 
