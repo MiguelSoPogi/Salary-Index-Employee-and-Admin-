@@ -19,8 +19,10 @@ In order for the Salary Index to work, the programmer must apply the following p
 | File I/O, Pointers   | File I/O: In functions loadFiles and updateFiles <br> All functions with the employee employees parameter |
 
 
+These are some sample outputs in the program:
+
+| Sample Console Input | Expected Console Output  |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
-
- |
 
