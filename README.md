@@ -23,7 +23,7 @@ These are some sample outputs in the program:
 
 | Sample Console Input | Expected Console Output  |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|2. register<br> LebronJames <br> Password            | Welcome!'! <br> "1. Login." <br><br> "2. Register Account." <br><br> "3. Exit Program." <br><br> USERNAME: LebronJames <br> PASSWORD: Password <br> <br> First Name: Lebron <br> Last Name: James  |
+|2. register<br> LebronJames <br> Password            | Welcome!'! <br> "1. Login." <br><br> "2. Register Account." <br><br> "3. Exit Program." <br><br> Please choose an option (1-3): <br> USERNAME: LebronJames <br> PASSWORD: Password <br> <br> First Name: Lebron <br> Last Name: James  |
 |1. login<br> KobeBryant <br>  BlackMamba           | Welcome!'! <br> "1. Login." <br><br> "2. Register Account." <br><br> "3. Exit Program." <br><br> USERNAME: KobeBryant <br> PASSWORD: BlackMamba <br> ERROR: User ID does not exist! <br> Register first instead! |
 | Number of terms to track: 1 <br> Number of subjects you are taking for the term: 2 <br>  | Subject: FNDSTAT <br> Grade 4.0 <br> Total Unit of the Subject: 3 <br> Subject: FNDMATH <br> Grade 4.0 <br> Total Unit of the Subject: 3 <br> <br> GPA: 4.0 <br> CGPA: 4.0 <br> Award: 1st Dean's Lister |
 | Number of terms to track: 1 <br> Number of subjects you are taking for the term: 2 <br>  | Subject: FNDSTAT <br> Grade 3.0 <br> Total Unit of the Subject: 3 <br> Subject: FNDMATH <br> Grade 3.0 <br> Total Unit of the Subject: 3 <br> <br> GPA: 3.0 <br> CGPA: 3.0 <br> Award: 2nd Dean's Lister |
