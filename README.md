@@ -12,3 +12,17 @@ The objective of this project is to apply the following concepts learned from th
 -Do while loop is closely similar to the while loop. It will continue with the program until a specific condition is fulfilled.
 
 In order for the Salary Index to work, the programmer must apply the following programming concepts in the pertinent program source code line/s:
+| Programming Concept  | Pertinent Program Source Code Line                                                                                                                                                                                                    |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1D and 2D arrays     | 1D Array = userData.h: lines 3-5, 15-20, and 45-59
+orders.h: lines 8, and 10-15 |
+| Strings, Array of Strings, and String Processing     | Strings Processor: userData.h: lines 6, and 9-17
+orders.h: lines 7, 30-33, and 35-45|
+| File I/O, Pointers   | File I/O: In functions loadFiles and updateFiles <br> All functions with the employee employees parameter |
+
+
+
+
+
+ |
+
